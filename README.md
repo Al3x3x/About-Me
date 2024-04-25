@@ -3,7 +3,8 @@
 
 
   
-- 🔭 I’m currently working on my web portfolio with react 
+
+- 🔭 I’m currently working on [My Portfolio Web with react](https://github.com/Al3x3x/Portfolio-web/tree/main)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Al3x3x?tab=repositories]([https://maikyh.github.io/miguel-garza/](https://github.com/Al3x3x?tab=repositories))
 
