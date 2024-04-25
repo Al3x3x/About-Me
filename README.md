@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [My Portfolio Web with react](https://github.com/Al3x3x/Portfolio-web/tree/main)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Al3x3x?tab=repositories]([https://maikyh.github.io/miguel-garza/](https://github.com/Al3x3x?tab=repositories))
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/Al3x3x?tab=repositories)
 
 - 📫 How to reach me **martinalexiscastanedabarajas@gmail.com**
 
